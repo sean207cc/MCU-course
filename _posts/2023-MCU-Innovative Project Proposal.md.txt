@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MCU Interfaces Introduction
-author: [Richard Kuo]
+author: [Sean Liu]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
