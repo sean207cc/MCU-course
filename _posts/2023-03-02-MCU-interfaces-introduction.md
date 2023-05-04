@@ -44,4 +44,4 @@ tags: [jekyll, ai]
 
 這些傳感器的特性和應用有所不同，可以根據實際需求選擇適合的型號。
 ## 系統方塊圖
-![](https://github.com/sean207cc/MCU-course/blob/main/images/截圖%202023-04-02%20上午12.08.32.png?raw=true)
+![](images/1876449.jpg)
