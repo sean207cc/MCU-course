@@ -107,3 +107,4 @@ void loop() {
 ```
 ## 執行結果
 ![](https://github.com/01053007/MCU-project/blob/main/images/ThinkspeakCom_1.png?raw=true)
+![](https://github.com/sean207cc/MCU-course/blob/0439cab85a5417c6591f1e55932b2429529082cf/images/Thinkspeakcom_2.png?raw=true)
